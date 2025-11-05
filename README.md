@@ -43,4 +43,4 @@ I developed a personal assistant multi-agent AI system that connects multiple to
 
 
 ## Result
-The result is a fully automated AI system that listens, understands, and performs tasks across multiple platforms. It combines intelligent conversation, task scheduling, and automation into one cohesive solution.**
+The result is a fully automated AI system that listens, understands, and performs tasks across multiple platforms. It combines intelligent conversation, task scheduling, and automation into one cohesive solution.
