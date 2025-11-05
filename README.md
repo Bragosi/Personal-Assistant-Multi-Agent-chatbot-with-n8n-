@@ -21,7 +21,7 @@ I developed a personal assistant multi-agent AI system that connects multiple to
 
 ---
 
-##Tech Stack
+## Tech Stack
 -n8n (Workflow Automation)
 -ChatGPT and Gemini (AI Models)
 -Google Tasks and Google Calendar APIs
@@ -30,5 +30,17 @@ I developed a personal assistant multi-agent AI system that connects multiple to
 
 ---
 
-##Result
+## 📸 Screenshots  
+---
+### 🏠 Telegram bot  
+<img width="1366" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/85ca36f1-d1a2-4526-8263-d50907b26847" />
+
+
+ ## 💬 Workflow 2 
+<img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/6d4c5a65-9e97-4565-bdd1-f3ef449a619b" />
+
+
+
+
+## Result
 The result is a fully automated AI system that listens, understands, and performs tasks across multiple platforms. It combines intelligent conversation, task scheduling, and automation into one cohesive solution.**
